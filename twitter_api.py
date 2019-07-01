@@ -16,9 +16,11 @@ print("hey!!!!! this is twitter API")
 
 api.mentions_timeline()
 api.home_timeline()
+				# OR
 
 #we can also create a function
-"""
+""" 
+
 
 import sys
 sys.path.append('C:\Python\Scrpits\Twitter')
